@@ -1,2 +1,6 @@
-# std-051-smartvox-config-beta
-Application SmartVOX®-Config pour Windows version Bêta
+# SmartVOX® Config version Bêta
+
+**SmartVOX® Config** est une application qui permet de :
+
+* Configurer un avertisseur SV via une connexion Bluetooth
+* Configurer un déclencheur SR / SB / SC / SmartREMOTE-1 via une liaison USB
